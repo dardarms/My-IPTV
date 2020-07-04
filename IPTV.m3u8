@@ -170,7 +170,6 @@ http://mott.cdn.cmi.chinamobile.com/livehls/MOB-NGW/01.m3u8
 https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="港澳台",阳光卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226121/1.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,su5zN697LMw9n_lzeL_Sgb6x37DxdKg8zE7JCFQ6xsB4/http://p.ananas.chaoxing.com/star3/origin/9301c53bd9da28f5cfded0196fda13c4.png" group-title="港澳台",﻿星空卫视
 http://116.199.5.52:8114/3Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sspkIngpM61t0uMaspykib61KZdqyqr8Ra68c9Y7BivQ/http://p.ananas.chaoxing.com/star3/origin/ae6a15e0b7f3a8d8d3e1ef1f16577193.png" group-title="港澳台",澳门卫视
