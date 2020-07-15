@@ -37,7 +37,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229683/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",纯享4K频道
 http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,ssoZ0cXE2ewBAUXfQFZHgpqkP8IsM_1woEOhf5tuN540/http://p.ananas.chaoxing.com/star3/origin/b003419726a9806b967d6f577d9a4d00.png" group-title="4K频道",q15,jpeg,ssoZ0cXE2ewBAUXf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,ssoZ0cXE2ewBAUXfQFZHgpqkP8IsM_1woEOhf5tuN540/http://p.ananas.chaoxing.com/star3/origin/b003419726a9806b967d6f577d9a4d00.png" group-title="4K频道",q15,jpeg,BesTV-4K
 http://117.148.187.46/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CNTV音乐现场
 http://120.221.5.113:8089/PLTV/88888888/224/3221226059/index.m3u8
@@ -51,6 +51,8 @@ http://hd1.91kds.cn/b9/aishang.m3u8?id=chcjt
 http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯 HD
 http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="山东齐鲁频道" tvg-logo="" group-title="地方",山东齐鲁频道
+http://120.221.5.101:8089/PLTV/88888888/224/3221226045/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://112.50.243.8//PLTV/88888888/224/3221225827/1.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
