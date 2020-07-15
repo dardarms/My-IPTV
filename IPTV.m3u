@@ -26,7 +26,7 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
-http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+http://223.110.247.161:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
@@ -139,13 +139,13 @@ http://112.50.243.8/PLTV/88888888/224/3221225871/1.m3u8
 http://39.135.34.150:8080/000000001000/1000000002000025964/1.m3u8?
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="少儿",优漫卡通
 http://112.50.243.8/PLTV/88888888/224/3221225874/1.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,sS7it_qhFFUvrvBM
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,动画1
 http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,sS7it_qhFFUvrvBM
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,动画2
 http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,sS7it_qhFFUvrvBM
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,动画3
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,sS7it_qhFFUvrvBM
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sS7it_qhFFUvrvBMmST6WLwbT7bz-YN6RUj2CSZmIIow/http://p.ananas.chaoxing.com/star3/origin/32dc0c24955dad7cbeb236e21a224b82.png" group-title="少儿",q15,jpeg,动画4
 http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳台",HKS卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -167,15 +167,15 @@ http://mott.cdn.cmi.chinamobile.com/livehls/MOB-NGW/01.m3u8
 https://ottproxy2.mott.tv/livehls:cmi/MOB-CN/03.m3u8
 #EXTINF:-1 tvg-id="144" tvg-name="阳光卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/yangguangweishi.png" group-title="港澳台",阳光卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226121/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,su5zN697LMw9n_lzeL_Sgb6x37DxdKg8zE7JCFQ6xsB4/http://p.ananas.chaoxing.com/star3/origin/9301c53bd9da28f5cfded0196fda13c4.png" group-title="港澳台",q15,jpeg,su5zN697LMw9n_lz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,su5zN697LMw9n_lzeL_Sgb6x37DxdKg8zE7JCFQ6xsB4/http://p.ananas.chaoxing.com/star3/origin/9301c53bd9da28f5cfded0196fda13c4.png" group-title="港澳台",q15,jpeg,星空卫视
 http://116.199.5.52:8114/3Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sspkIngpM61t0uMaspykib61KZdqyqr8Ra68c9Y7BivQ/http://p.ananas.chaoxing.com/star3/origin/ae6a15e0b7f3a8d8d3e1ef1f16577193.png" group-title="港澳台",q15,jpeg,sspkIngpM61t0uMa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sspkIngpM61t0uMaspykib61KZdqyqr8Ra68c9Y7BivQ/http://p.ananas.chaoxing.com/star3/origin/ae6a15e0b7f3a8d8d3e1ef1f16577193.png" group-title="港澳台",q15,jpeg,澳门卫视
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p1.ssl.qhimg.com/bdr/_1920_/t013079f5ca296882a2.png" group-title="港澳台",莲花卫视
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,swiiwYKH_bi5tiJ6oJvNzuSVwQRq8YtqgZEA-xz0xCoM/http://p.ananas.chaoxing.com/star3/origin/727f28c25aae73946bea9b44e1b7a72d.png" group-title="港澳台",q15,jpeg,swiiwYKH_bi5tiJ6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,swiiwYKH_bi5tiJ6oJvNzuSVwQRq8YtqgZEA-xz0xCoM/http://p.ananas.chaoxing.com/star3/origin/727f28c25aae73946bea9b44e1b7a72d.png" group-title="港澳台",q15,jpeg,澳门有线-1
 http://202.175.127.77/live/show/ch1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,swiiwYKH_bi5tiJ6oJvNzuSVwQRq8YtqgZEA-xz0xCoM/http://p.ananas.chaoxing.com/star3/origin/727f28c25aae73946bea9b44e1b7a72d.png" group-title="港澳台",q15,jpeg,swiiwYKH_bi5tiJ6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,swiiwYKH_bi5tiJ6oJvNzuSVwQRq8YtqgZEA-xz0xCoM/http://p.ananas.chaoxing.com/star3/origin/727f28c25aae73946bea9b44e1b7a72d.png" group-title="港澳台",q15,jpeg,澳门有线-2
 http://202.175.127.77/live/show/ch2/index.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="澳亚卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/澳亚卫视.png" group-title="港澳台",澳亚卫视
 http://116.199.5.52:8114/3Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=
@@ -183,33 +183,33 @@ http://116.199.5.52:8114/3Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_o
 http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场
 http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV超级电影
 http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV超级综艺
 http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV超级电视剧
 http://112.50.243.8/PLTV/88888888/224/3221225928/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV精品大剧
 http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",BesTV超级体育
 http://112.50.243.8/PLTV/88888888/224/3221226565/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV金牌综艺
 http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV精品纪录
 http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV超级体育
 http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV惊悚悬疑
 http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV潮妈辣婆
 http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV健康有约
 http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV精品纪录
 http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV中国功夫
 http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",q15,jpeg,sPneWSlzKcmDG3-x
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sPneWSlzKcmDG3-xDmHeVdKnT1Z-HowqR9nW7G6QDUvw/http://p.ananas.chaoxing.com/star3/origin/717c032174a85ae5c88a773300218211.png" group-title="未来电视",NewTV明星大片
 http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方",北京纪实
 http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
@@ -217,19 +217,19 @@ http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://112.50.243.8/PLTV/88888888/224/3221226937/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",q15,jpeg,sCMKEsbZYiJJpzC8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",厦门1套
 http://112.50.243.8/PLTV/88888888/224/3221226814/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",q15,jpeg,sCMKEsbZYiJJpzC8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",厦门2套
 http://112.50.243.8/PLTV/88888888/224/3221226777/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",q15,jpeg,sCMKEsbZYiJJpzC8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",厦门3套
 http://112.50.243.8/PLTV/88888888/224/3221226760/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",q15,jpeg,sCMKEsbZYiJJpzC8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sCMKEsbZYiJJpzC87-G-Z30H-TNRQKlb2iMGr1R7J-GU/http://p.ananas.chaoxing.com/star3/origin/bc6a5c15f18da8fc6ddc6678efff5db6.png" group-title="地方",厦门4套
 http://112.50.243.8/PLTV/88888888/224/3221226764/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,srmoxOj_tG1zz5JIdP94Z1HzfOmFJGjn_bZgFjs-2rVY/http://p.ananas.chaoxing.com/star3/origin/679d120103498e600b77b89ff9e001dc.png" group-title="地方",q15,jpeg,srmoxOj_tG1zz5JI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,srmoxOj_tG1zz5JIdP94Z1HzfOmFJGjn_bZgFjs-2rVY/http://p.ananas.chaoxing.com/star3/origin/679d120103498e600b77b89ff9e001dc.png" group-title="地方",宁德
 http://112.50.243.8/PLTV/88888888/224/3221226631/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,srmoxOj_tG1zz5JIdP94Z1HzfOmFJGjn_bZgFjs-2rVY/http://p.ananas.chaoxing.com/star3/origin/679d120103498e600b77b89ff9e001dc.png" group-title="地方",q15,jpeg,srmoxOj_tG1zz5JI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,srmoxOj_tG1zz5JIdP94Z1HzfOmFJGjn_bZgFjs-2rVY/http://p.ananas.chaoxing.com/star3/origin/679d120103498e600b77b89ff9e001dc.png" group-title="地方",宁德2
 http://112.50.243.8/PLTV/88888888/224/3221226635/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sfOie8Yzi22nDiTo51le818xWPHCcl7AZ0tbzQOojuYg/http://p.ananas.chaoxing.com/star3/origin/12ac94d43b99817f7900c7e7a951aa16.png" group-title="地方",q15,jpeg,sfOie8Yzi22nDiTo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,sfOie8Yzi22nDiTo51le818xWPHCcl7AZ0tbzQOojuYg/http://p.ananas.chaoxing.com/star3/origin/12ac94d43b99817f7900c7e7a951aa16.png" group-title="地方",法治天地
 http://112.50.243.8/PLTV/88888888/224/3221226143/1.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="地方",CGTN
 http://112.50.243.8/PLTV/88888888/224/3221225822/1.m3u8
@@ -249,7 +249,7 @@ http://112.50.243.8/PLTV/88888888/224/3221226859/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226940/1.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方",游戏风云
 http://112.50.243.8/PLTV/88888888/224/3221226912/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,swsBWxozYbPRbqnzUrrumet5r6o_xRRISuMtEK6LLLIA/http://p.ananas.chaoxing.com/star3/origin/7e4d19d239ce5806dcd4a155888b6086.png" group-title="地方",q15,jpeg,swsBWxozYbPRbqnz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imageproxy.chaoxing.com/0x0,q15,jpeg,swsBWxozYbPRbqnzUrrumet5r6o_xRRISuMtEK6LLLIA/http://p.ananas.chaoxing.com/star3/origin/7e4d19d239ce5806dcd4a155888b6086.png" group-title="地方",q15,jpeg,黑莓电竞
 http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="地方",max极速汽车
 http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
