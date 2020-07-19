@@ -25,6 +25,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13高清" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13高清
+CCTV13,http://36.152.7.33/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
 http://223.110.247.161:6610/gitv/live1/G_CCTV-13-HQ/1.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
